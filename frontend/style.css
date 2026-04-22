@@ -78,14 +78,14 @@ button {
 }
 
 #flip-button {
-    background: #0a1c22;
+    background-color: #0a1c22;
     color: #edeceb;
 }
 
 #flip-button:disabled {
-    background-color: #edeceb;
-    color: #101020;
-    border-color: #edeceb;
+    background-color: #0a1c22;
+    color: #f0f0f4;
+    border-color: #cfe5cd;
 
 }
 
